@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+}
+
+h2 {
+    color: darkmagenta;
+}
+
+button{
+    border-radius: 5px;
+    width: 200px;
+    background-color: coral;
+}
+
+#id1 {
+    color: darkred;
+}
+
+#id2 {
+    color: lightseagreen;
+}
+
+.cor-pink {
+    color: deeppink;
+}
+
